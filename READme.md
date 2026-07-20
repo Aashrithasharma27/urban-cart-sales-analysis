@@ -106,7 +106,23 @@ streamlit run app.py
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+## 📷 Dashboard Preview
+
+### Dashboard Home
+
+![Dashboard Home](images/dashboard_home.png)
+
+---
+
+### Sales Analysis
+
+![Sales Analysis](images/sales_analysis.png)
+
+---
+
+### Visualizations
+
+![Visualizations](images/visualizations.png)
 
 ---
 
