@@ -94,6 +94,9 @@ urban-cart-sales-analysis/
 [dashboard_filters.png](https://github.com/Aashrithasharma27/urban-cart-sales-analysis/blob/main/images/dashboard_filters.png.jpeg)
 [dashboard_table.png](https://github.com/Aashrithasharma27/urban-cart-sales-analysis/blob/main/images/dashboard_table.png.jpeg)
 
+## Live Demo
+https://urban-cart-sales-analysis-8jvi3hrwnvkt6bxqoby9ki.streamlit.app/
+
 ## 👩‍💻 Author
 
 **Aashritha Sharma**
