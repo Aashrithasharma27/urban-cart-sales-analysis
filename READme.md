@@ -90,9 +90,9 @@ urban-cart-sales-analysis/
 ```
 ## 📷 Dashboard Preview
 
-![Home Dashboard](dashboard_home.png)
-![Filters](dashboard_filters.png)
-![Table](dashboard_table.png)
+dashboard_home.png
+dashboard_filters.png
+dashboard_table.png
 
 ## 👩‍💻 Author
 
