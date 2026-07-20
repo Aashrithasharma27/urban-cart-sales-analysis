@@ -90,7 +90,7 @@ urban-cart-sales-analysis/
 ```
 ## 📷 Dashboard Preview
 
-dashboard_home.png
+[dashboard_home.png](https://github.com/Aashrithasharma27/urban-cart-sales-analysis/blob/main/images/dashboard_filters.png.jpeg)
 dashboard_filters.png
 dashboard_table.png
 
