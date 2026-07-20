@@ -90,14 +90,10 @@ urban-cart-sales-analysis/
 ```
 ## 📷 Dashboard Preview
 
-### Home Dashboard
 ![Home Dashboard](images/dashboard_home.png)
-
-### Interactive Filters
 ![Filters](images/dashboard_filters.png)
-
-### Data Table
 ![Table](images/dashboard_table.png)
+
 ## 👩‍💻 Author
 
 **Aashritha Sharma**
